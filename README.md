@@ -2,7 +2,7 @@
 This project documents my progress through the 100 days of Machine Learning Challenge.
 
 ## Day 1
-I started Jason Brownlee's book "Master Machine Learning Algorithms - Disocver how they work and Implement Them from Scratch" and studied 5 chapters. 
+I started Jason Brownlee's book "Master Machine Learning Algorithms - Discover how they work and Implement Them from Scratch" and studied 5 chapters. 
 1. Introduction to the book
 2. Terminology used to talk about data
 3. Algorthims learn to map input to output
