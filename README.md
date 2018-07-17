@@ -14,5 +14,12 @@ Today I read chapters 6-9.
 
 6. The Bias-Variance Trade-Off 
 7. How Bias-Variance trade-off relates to Overfitting and Underfitting. 
-8. Crassh-Course in Spreadsheet match (skimmed over this chapter)
+8. Crash-Course in Spreadsheet match (skimmed over this chapter)
 9. Gradient Descent for machine learning. Gradient Descent is an optimization algorithm used to find the values for parameters (coefficients) of a function that minimize the cost function. Variants include Batch gradient descent and Stochastic Gradient Descent. 
+
+## Day 3
+Today I read chapters 10-12.
+
+10. Understanding Linear Regression. 
+11. Linear regression Tutorial (implemention in code/day3.R). I also included an example of linear regression model from stats package.
+12. Linear Regression with Tutorial using Gradient Descent (I did not implement this)
