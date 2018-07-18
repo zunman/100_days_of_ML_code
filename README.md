@@ -23,3 +23,6 @@ Today I read chapters 10-12.
 10. Understanding Linear Regression. 
 11. Linear regression Tutorial (implemention in code/day3.R). I also included an example of linear regression model from stats package.
 12. Linear Regression with Tutorial using Gradient Descent (I did not implement this)
+
+## Day 4
+Today I read chapters 13-14 on Logistic regression. 
