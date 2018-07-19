@@ -26,3 +26,6 @@ Today I read chapters 10-12.
 
 ## Day 4
 Today I read chapters 13-14 on Logistic regression. 
+
+## Day 5
+Today I read chapters 15-16 on Linear Discriminant Analysis. (implementation in code/day5.R) I usually work with data frames so struggled a bit with tibbles. (NOTE to self: practice using tibbles over data frames)
