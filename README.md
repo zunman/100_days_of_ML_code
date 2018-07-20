@@ -32,3 +32,14 @@ Today I read chapters 15-16 on Linear Discriminant Analysis. (implementation in 
 
 ## Day 6
 Today I read chapters 17-19 on nonLinear algorithms including CART (Classification and Regression Trees) and Naive Bayes algorithm. 
+
+## Day 7
+Today I read chapters 20-26.
+
+20. Naive Bayes Tutorial
+21. Gaussian Naive Bayes Tutorial
+22. k-Nearest Neighbours
+23. k-Nearest Neighbours tutorial
+24. Learning Vector Quantization
+25. Learning Vector Quantization tutorial
+26. Support Vector Machines. Including various kernels and optimzation procedures.
