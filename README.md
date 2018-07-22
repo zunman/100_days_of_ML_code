@@ -33,7 +33,7 @@ Today I read chapters 15-16 on Linear Discriminant Analysis. (implementation in 
 ## Day 6
 Today I read chapters 17-19 on nonLinear algorithms including CART (Classification and Regression Trees) and Naive Bayes algorithm. 
 
-## Day 7
+## Day 7 (July 20th, 2018)
 Today I read chapters 20-26.
 
 20. Naive Bayes Tutorial
@@ -43,3 +43,15 @@ Today I read chapters 20-26.
 24. Learning Vector Quantization
 25. Learning Vector Quantization tutorial
 26. Support Vector Machines. Including various kernels and optimzation procedures.
+
+## Day 8 (July 22, 2018)
+Today I finished reading Jason Brownlee's book "Master Machine Learning Algorithms - Discover how they work and Implement Them from Scratch". I covered chapters 27-33.
+
+27. SVM tutorial
+28. Bagging and Random Forest
+29. Bagged Decision trees tutorial
+30. Boosting and Adaboost
+31. Adaboost tutorial
+
+Now that I finished the book for which I really took on this challenge, I have a few ideas on how to proceed. I can explore the various Natural Language Processing techniques, starting with basics (bag of words) and going beyond what I already know (exploring techniques like word embeddings). Another option is to explore data visualization. This is one of my weak spots right now that I've been wanting to work on for a while. Visualize data in order to chose the best machine learning algorithm, and also display findings in a way that people can understand. A third option is to learn how to present Machine learning to non-technical (business) people. What I've come to realize in the last year is that it is not enough that you know what you're doing, you need to be able to communicate your thoughts effectively, in simple language, to others in the company and to outside clients. 
+
