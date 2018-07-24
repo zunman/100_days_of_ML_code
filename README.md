@@ -55,3 +55,9 @@ Today I finished reading Jason Brownlee's book "Master Machine Learning Algorith
 
 Now that I finished the book for which I really took on this challenge, I have a few ideas on how to proceed. I can explore the various Natural Language Processing techniques, starting with basics (bag of words) and going beyond what I already know (exploring techniques like word embeddings). Another option is to explore data visualization. This is one of my weak spots right now that I've been wanting to work on for a while. Visualize data in order to chose the best machine learning algorithm, and also display findings in a way that people can understand. A third option is to learn how to present Machine learning to non-technical (business) people. What I've come to realize in the last year is that it is not enough that you know what you're doing, you need to be able to communicate your thoughts effectively, in simple language, to others in the company and to outside clients. 
 
+## Day 9 
+
+Today I practiced using word embeddings in R, by following the tutorial for pacakge "wordVectors" and some related exercises.
+
+1. https://github.com/bmschmidt/wordVectors/blob/master/vignettes/introduction.Rmd
+2. https://www.r-exercises.com/2017/11/05/word-embedding-exercises/
