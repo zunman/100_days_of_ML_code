@@ -61,3 +61,7 @@ Today I practiced using word embeddings in R, by following the tutorial for paca
 
 1. https://github.com/bmschmidt/wordVectors/blob/master/vignettes/introduction.Rmd
 2. https://www.r-exercises.com/2017/11/05/word-embedding-exercises/
+
+## Day 10
+
+Today I trained my own word embeddings on Resumes. I recently had to work on a skills identification task, where it was quite a challenge to group skills together in certain categories. It seems word embeddings might be able to solve the problem. 
