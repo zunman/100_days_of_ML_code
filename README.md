@@ -65,3 +65,6 @@ Today I practiced using word embeddings in R, by following the tutorial for paca
 ## Day 10
 
 Today I trained my own word embeddings on Resumes. I recently had to work on a skills identification task, where it was quite a challenge to group skills together in certain categories. It seems word embeddings might be able to solve the problem. 
+
+## Day 11
+Today I am exoerimented with training word embeddings from various different sources. I trained a model on resumes collected for NAICS, another model on job posts collected for NAICS, and a 3rd model on both job posts and resumes (model is currently training). 
