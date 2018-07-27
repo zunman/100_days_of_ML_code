@@ -67,4 +67,12 @@ Today I practiced using word embeddings in R, by following the tutorial for paca
 Today I trained my own word embeddings on Resumes. I recently had to work on a skills identification task, where it was quite a challenge to group skills together in certain categories. It seems word embeddings might be able to solve the problem. 
 
 ## Day 11
-Today I am exoerimented with training word embeddings from various different sources. I trained a model on resumes collected for NAICS, another model on job posts collected for NAICS, and a 3rd model on both job posts and resumes (model is currently training). 
+
+Today I am experimented with training word embeddings from various different sources. I trained a model on resumes collected for NAICS, another model on job posts collected for NAICS, and a 3rd model on both job posts and resumes (model is currently training). 
+
+## Day 12
+
+About day 11, finished training my 3 word embedding models. They worked great. solved the problem of grouping similar skills together.
+
+Today I am watching "Data Science A-Z: Real Life Data science" udemy course. Listening to the "communication chapter which talks about "working with people" and "presenting for data scientists". Not exactly Machine learning, but definitely a big part of being a data scientist
+
