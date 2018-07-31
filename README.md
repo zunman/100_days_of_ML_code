@@ -70,9 +70,19 @@ Today I trained my own word embeddings on Resumes. I recently had to work on a s
 
 Today I am experimented with training word embeddings from various different sources. I trained a model on resumes collected for NAICS, another model on job posts collected for NAICS, and a 3rd model on both job posts and resumes (model is currently training). 
 
-## Day 12
+## Day 12 (July 26, 2018)
 
 About day 11, finished training my 3 word embedding models. They worked great. solved the problem of grouping similar skills together.
 
 Today I am watching "Data Science A-Z: Real Life Data science" udemy course. Listening to the "communication chapter which talks about "working with people" and "presenting for data scientists". Not exactly Machine learning, but definitely a big part of being a data scientist
+
+## Day 13 (July 30, 2018)
+
+Today I learned about time-series in R by following the 3 part series on "Time Series Analysis in R". available at: 
+
+Part1: https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/
+
+Part2: https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-transformations/
+
+Part3: https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/
 
