@@ -86,3 +86,9 @@ Part2: https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-
 
 Part3: https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/
 
+
+## Day 14 (Aug 1, 2018) 
+
+I'm changing this challenge to a #100DaysOfDataScienceLearning Challenge. My current need is to learn about data analysis and data visualization in order to effectively present findings obtained from Machine Learning algorithms. Learning new and better machine learning techniques is definitely useful but not unless I can simultaneously learn to communicate them to business team and clients.
+
+For this purpose, I started reading "Storytelling with data - a data visualization guide for business professionals" by Cole Nussbaumer knaflic. Today I covered introduction and chapter 1 of the book.
