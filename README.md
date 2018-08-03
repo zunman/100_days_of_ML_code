@@ -91,4 +91,8 @@ Part3: https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data
 
 I'm changing this challenge to a #100DaysOfDataScienceLearning Challenge. My current need is to learn about data analysis and data visualization in order to effectively present findings obtained from Machine Learning algorithms. Learning new and better machine learning techniques is definitely useful but not unless I can simultaneously learn to communicate them to business team and clients.
 
-For this purpose, I started reading "Storytelling with data - a data visualization guide for business professionals" by Cole Nussbaumer knaflic. Today I covered introduction and chapter 1 of the book.
+For this purpose, I started reading "Storytelling with data - a data visualization guide for business professionals" by Cole Nussbaumer knaflic. Today I covered introduction and chapter 1 (the importance of context) of the book.
+
+## Day 15
+
+"Chapter 2 - choosing an effective visual" covered simple text, tables, heatmaps, scatter plot, line graph, slopegraphs, vertical bar chart, horizontal bar chart, stacked vertical bar chart, stacked horizontal bar charts, waterfall chart, square area chart. The author also talked about avoiding pie charts, donut chart, 3D charts and secondary y-axis on charts.
