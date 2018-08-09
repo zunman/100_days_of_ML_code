@@ -100,3 +100,7 @@ For this purpose, I started reading "Storytelling with data - a data visualizati
 ## Day 16 (Aug 7th, 2018)
 
 "Chapter 3 - clutter is your enemy!" talked about cognitive load and clutter, gestalt principles of visual perception (proximity, similarity, enclosure, closure, continuity, connection), lack of visual order (alignment, white space) and non-strategic use of contrast. 
+
+## Day 17
+
+"Chapter 4 - focus your audience's attention" talked about memory, preattentive attributes signal where to look, preattentive attributes in text, preattentive attributes in graphs and position on page.
