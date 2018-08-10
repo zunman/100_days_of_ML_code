@@ -104,3 +104,7 @@ For this purpose, I started reading "Storytelling with data - a data visualizati
 ## Day 17
 
 "Chapter 4 - focus your audience's attention" talked about memory, preattentive attributes signal where to look, preattentive attributes in text, preattentive attributes in graphs and position on page.
+
+## Day 18
+
+"Chapter 5 - think like a designer" talks about affordances (highlight important stuff, eliminate distractions, create clear visual hierarchy of information), Accessibility (Don't overcomplicate, text is your friend), Aesthetics and Acceptance.
