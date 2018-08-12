@@ -108,3 +108,7 @@ For this purpose, I started reading "Storytelling with data - a data visualizati
 ## Day 18
 
 "Chapter 5 - think like a designer" talks about affordances (highlight important stuff, eliminate distractions, create clear visual hierarchy of information), Accessibility (Don't overcomplicate, text is your friend), Aesthetics and Acceptance.
+
+## Day 19 (Aug 12, 2018)
+
+I started working on a project to figure out whether America's got Talent winner can be predicted from social media posts. What factors (number of posts, number of users engaged, positive tweets/users counts etc.) correlate with predicting the winner. I will continue working on this as the live show start.
