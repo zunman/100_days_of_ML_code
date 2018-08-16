@@ -116,3 +116,7 @@ I started working on a project to figure out whether America's got Talent winner
 ## Day 20
 
 "Chapter 6 - dissecting model visuals" gave a walkthrough of several graphs discussing in detail the elements of these graphs that makess them a good plot.
+
+## Day 21-22
+
+"Chapter 7 - lessonss in storytelling" talks about the magic of story, constructing the story, the power of repetition and tactics to help enssure your story is clear.
