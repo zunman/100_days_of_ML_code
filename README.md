@@ -61,3 +61,62 @@ Today I practiced using word embeddings in R, by following the tutorial for paca
 
 1. https://github.com/bmschmidt/wordVectors/blob/master/vignettes/introduction.Rmd
 2. https://www.r-exercises.com/2017/11/05/word-embedding-exercises/
+
+## Day 10
+
+Today I trained my own word embeddings on Resumes. I recently had to work on a skills identification task, where it was quite a challenge to group skills together in certain categories. It seems word embeddings might be able to solve the problem. 
+
+## Day 11
+
+Today I am experimented with training word embeddings from various different sources. I trained a model on resumes collected for NAICS, another model on job posts collected for NAICS, and a 3rd model on both job posts and resumes (model is currently training). 
+
+## Day 12 (July 26, 2018)
+
+About day 11, finished training my 3 word embedding models. They worked great. solved the problem of grouping similar skills together.
+
+Today I am watching "Data Science A-Z: Real Life Data science" udemy course. Listening to the "communication chapter which talks about "working with people" and "presenting for data scientists". Not exactly Machine learning, but definitely a big part of being a data scientist
+
+## Day 13 (July 30, 2018)
+
+Today I learned about time-series in R by following the 3 part series on "Time Series Analysis in R". available at: 
+
+Part1: https://datascienceplus.com/time-series-analysis-in-r-part-1-the-time-series-object/
+
+Part2: https://datascienceplus.com/time-series-analysis-in-r-part-2-time-series-transformations/
+
+Part3: https://datascienceplus.com/time-series-analysis-in-r-part-3-getting-data-from-quandl/
+
+
+## Day 14 (Aug 1, 2018) 
+
+I'm changing this challenge to a #100DaysOfDataScienceLearning Challenge. My current need is to learn about data analysis and data visualization in order to effectively present findings obtained from Machine Learning algorithms. Learning new and better machine learning techniques is definitely useful but not unless I can simultaneously learn to communicate them to business team and clients.
+
+For this purpose, I started reading "Storytelling with data - a data visualization guide for business professionals" by Cole Nussbaumer knaflic. Today I covered introduction and chapter 1 (the importance of context) of the book.
+
+## Day 15
+
+"Chapter 2 - choosing an effective visual" covered simple text, tables, heatmaps, scatter plot, line graph, slopegraphs, vertical bar chart, horizontal bar chart, stacked vertical bar chart, stacked horizontal bar charts, waterfall chart, square area chart. The author also talked about avoiding pie charts, donut chart, 3D charts and secondary y-axis on charts.
+
+## Day 16 (Aug 7th, 2018)
+
+"Chapter 3 - clutter is your enemy!" talked about cognitive load and clutter, gestalt principles of visual perception (proximity, similarity, enclosure, closure, continuity, connection), lack of visual order (alignment, white space) and non-strategic use of contrast. 
+
+## Day 17
+
+"Chapter 4 - focus your audience's attention" talked about memory, preattentive attributes signal where to look, preattentive attributes in text, preattentive attributes in graphs and position on page.
+
+## Day 18
+
+"Chapter 5 - think like a designer" talks about affordances (highlight important stuff, eliminate distractions, create clear visual hierarchy of information), Accessibility (Don't overcomplicate, text is your friend), Aesthetics and Acceptance.
+
+## Day 19 (Aug 12, 2018)
+
+I started working on a project to figure out whether America's got Talent winner can be predicted from social media posts. What factors (number of posts, number of users engaged, positive tweets/users counts etc.) correlate with predicting the winner. I will continue working on this as the live show start.
+
+## Day 20
+
+"Chapter 6 - dissecting model visuals" gave a walkthrough of several graphs discussing in detail the elements of these graphs that makess them a good plot.
+
+## Day 21-22
+
+"Chapter 7 - lessonss in storytelling" talks about the magic of story, constructing the story, the power of repetition and tactics to help enssure your story is clear.
