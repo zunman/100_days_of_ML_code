@@ -120,3 +120,7 @@ I started working on a project to figure out whether America's got Talent winner
 ## Day 21-22
 
 "Chapter 7 - lessonss in storytelling" talks about the magic of story, constructing the story, the power of repetition and tactics to help enssure your story is clear.
+
+## Day 23
+
+Recorded results for AGT qurter final 1. Compare existing topic model to confirm people are infact using those terms. Results did not match this time. It was expected as the sample was not updated the day of the results. I think this will be a continuous challenge. Even if I manage to find some corelation, I don't think it will be able to make a prediction before the results are announced. Will consider speeding up the sample closer to the finals.
