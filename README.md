@@ -34,9 +34,9 @@ Today I read chapters 15-16 on Linear Discriminant Analysis. (implementation in 
 Today I read chapters 17-19 on nonLinear algorithms including CART (Classification and Regression Trees) and Naive Bayes algorithm. 
 
 ## Day 7 (July 20th, 2018)
-Today I read chapters 20-26.
+Today I read chapters 20-26. (these are all classification based models)
 
-20. Naive Bayes Tutorial
+20. Naive Bayes Tutorial 
 21. Gaussian Naive Bayes Tutorial
 22. k-Nearest Neighbours
 23. k-Nearest Neighbours tutorial
